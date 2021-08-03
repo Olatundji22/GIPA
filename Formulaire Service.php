@@ -72,7 +72,7 @@ $resultat = mysqli_query($connect, $reqcombodir);
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-navbar-collapse">
 						<ul class="nav navbar-nav main-navbar-nav">
-							<li><a href="index.php" title="">ACCEUIL</a></li>
+							<li><a href="Acceuil.php" title="">ACCEUIL</a></li>
 							<li class="dropdown">
 								<a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PERSONNEL<span class="caret"></span></a>
 								<ul class="dropdown-menu">
